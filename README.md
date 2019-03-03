@@ -7,9 +7,7 @@ Hackathon: Teacher CS Pitches, Developer Exemplars, Teacher Documents
 
 ---
 
-20190203 Event
-
-See Images
+20190203 Event, <a href="https://drive.google.com/drive/folders/1FXN71pBeT60un4eixqKsHMLT-4p_i-EW">Images</a>
 
 ---
 
