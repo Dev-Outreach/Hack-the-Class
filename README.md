@@ -13,6 +13,9 @@ Hackathon: Teacher CS Pitches, Developer Exemplars, Teacher Documents
 
 # Event Organization
 
+Using Classic Fare Catering (Search EPSB GMail for Contacts)
+- 2-044 Lister Centre, 87 Ave & 116 St,Edmonton,AB T6G 2H6
+- (780) 492-4411
 
 ---
 # Changes and Feedback to Address
